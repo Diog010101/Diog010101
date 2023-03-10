@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Diog010101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Diog010101/Diog010101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Olá sou Diogo!
+<div align="center">
+  <a href="https://github.com/Diog010101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diog010101&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diog010101&layout=compact&langs_count=7&theme=merko"/>
+</div>
